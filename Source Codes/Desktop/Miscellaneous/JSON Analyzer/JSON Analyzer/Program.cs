@@ -8,27 +8,31 @@ using Newtonsoft.Json;
 
 namespace JSON_Analyzer
 {
+    public class League
+    {
+        public int id;
+        public string name;
+        public int sportId;
+    }
+    public class Sport
+    {
+        public int id;
+        public string name;
+        
+    }
     public class Game
     {
-        public int homeScore;
-        public int awayScore;
-       
-
         public string eventName;
         public string date;
 
-        public Tuple<int, string> Sport;
+        public Sport sport;
+        public League league;
 
-        class League
-        {
-            int id;
-            string name;
-            int sportId;
-        }
-
-        float homeOdds;
-        float awayOdds;
-        float drawOdds;
+        public int homeTeamScore;
+        public int awayTeamScore;
+        public float homeTeamOdds;
+        public float awayTeamOdds;
+        public float drawOdds;
 
     }
     
@@ -37,13 +41,10 @@ namespace JSON_Analyzer
         private static string jsonFilePath = "sport-events.json";
         static void Main(string[] args)
         {
-            List<int> ints = new List<int>();
             string json = File.ReadAllText(jsonFilePath);
             List<Game> list = JsonConvert.DeserializeObject<List<Game>>(json);
-            for (int i = 0; i < list.Count; i++)
-            {
-                Console.WriteLine(list[i].Sport.Item1);
-            }
+
+            
         }
     }
 }

@@ -1,0 +1,11 @@
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\bin\Debug\LastOdds_Server.exe.config
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\bin\Debug\LastOdds_Server.exe
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\bin\Debug\LastOdds_Server.pdb
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\bin\Debug\Newtonsoft.Json.dll
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\bin\Debug\Sodium.dll
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\bin\Debug\Newtonsoft.Json.xml
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\obj\Debug\LastOdds_Server.csprojResolveAssemblyReference.cache
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\obj\Debug\LastOdds_Server.csproj.CoreCompileInputs.cache
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\obj\Debug\LastOdds_Server.csproj.CopyComplete
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\obj\Debug\LastOdds_Server.exe
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Server\LastOdds_Server\LastOdds_Server\obj\Debug\LastOdds_Server.pdb

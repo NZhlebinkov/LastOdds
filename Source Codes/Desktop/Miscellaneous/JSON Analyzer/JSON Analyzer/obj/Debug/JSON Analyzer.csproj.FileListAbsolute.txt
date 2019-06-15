@@ -8,3 +8,13 @@ C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\
 C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csproj.CopyComplete
 C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.exe
 C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.pdb
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\JSON Analyzer.exe.config
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\JSON Analyzer.exe
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\JSON Analyzer.pdb
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\Newtonsoft.Json.dll
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\Newtonsoft.Json.xml
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csprojResolveAssemblyReference.cache
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csproj.CoreCompileInputs.cache
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csproj.CopyComplete
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.exe
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.pdb

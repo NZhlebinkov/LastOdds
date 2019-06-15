@@ -1,0 +1,12 @@
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\bin\Debug\LastOdds_Desktop_Client.exe.config
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\bin\Debug\LastOdds_Desktop_Client.exe
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\bin\Debug\LastOdds_Desktop_Client.pdb
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.InitiateServerConnectionForm.resources
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.LoginForm.resources
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.LoginUserControl.resources
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.Properties.Resources.resources
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.csproj.GenerateResource.cache
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.csproj.CoreCompileInputs.cache
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.exe
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.pdb
+D:\Files from PC\Visual Basic Projects - =&+Ivan+&=\LastOdds\Source Codes\Desktop\Client\LastOdds_Desktop_Client\LastOdds_Desktop_Client\obj\Debug\LastOdds_Desktop_Client.csprojResolveAssemblyReference.cache
