@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\JSON Analyzer.exe.config
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\JSON Analyzer.exe
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\JSON Analyzer.pdb
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.csproj.CopyComplete
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.exe
+C:\Users\Ivan\Desktop\LastOdds\Source Codes\Desktop\Miscellaneous\JSON Analyzer\JSON Analyzer\obj\Debug\JSON Analyzer.pdb
