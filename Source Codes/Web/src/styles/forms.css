@@ -1,0 +1,9 @@
+.Search {
+    width: 50%;
+}
+.col-centered{
+    position: absolute;
+    top: 48vh;
+    width: 100%;
+    left: 20%;
+}
