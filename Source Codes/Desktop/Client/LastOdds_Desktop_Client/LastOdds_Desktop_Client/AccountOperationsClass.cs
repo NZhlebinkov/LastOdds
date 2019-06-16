@@ -14,7 +14,14 @@ namespace LastOdds_Desktop_Client
         }
         public static void Register(string username, string password)
         {
+            string salt;
+            string hashedUsername;
+            string hashedPassword;
 
+            //
+            string outgoingCommand = String.Format("register<$command$>{0}<$sub data$>{1}<$sub data$>{2}",                
+                username
+                );
         }
     }
 }

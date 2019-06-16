@@ -14,9 +14,9 @@ namespace LastOdds_Desktop_Client
     {
         public InitiateServerConnectionForm()
         {
-            InitializeComponent();
-           
+            InitializeComponent();           
             InitiateConnection();
+            this.Close();
         }
 
         static void InitiateConnection()
@@ -26,14 +26,13 @@ namespace LastOdds_Desktop_Client
 
                 GlobalVariablesClass.localClient.Connect("127.0.0.1", 1054);
                 GlobalVariablesClass.clientNetworkStream = GlobalVariablesClass.localClient.GetStream();
-                CommunicationHandlingClass.SendToServer("DONE");
                 LoginForm loginForm = new LoginForm();
                 loginForm.Show();
             }
             catch (Exception ex)
             {
 
-                MessageBox.Show(ex.ToString());
+                MessageBox.Show(ex.Message);
             }
           
         }

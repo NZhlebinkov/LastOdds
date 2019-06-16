@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="AccountOperationsClass.cs" />
     <Compile Include="CommunicationHandlingClass.cs" />
+    <Compile Include="CryptoSecurityClass.cs" />
     <Compile Include="FormatData.cs" />
     <Compile Include="GlobalVariablesClass.cs" />
     <Compile Include="InitiateServerConnectionForm.cs">
@@ -69,6 +70,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RegisterUserControl.Designer.cs">
+      <DependentUpon>RegisterUserControl.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="InitiateServerConnectionForm.resx">
       <DependentUpon>InitiateServerConnectionForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +94,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="RegisterUserControl.resx">
+      <DependentUpon>RegisterUserControl.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

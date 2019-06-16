@@ -17,6 +17,7 @@ namespace LastOdds_Desktop_Client
         public LoginForm()
         {
             InitializeComponent();
+            loginUserControl.BringToFront();
         }
 
         private void OnMouseClick(object sender, EventArgs e)
@@ -50,6 +51,16 @@ namespace LastOdds_Desktop_Client
                 this.Left += e.X - endPoint.X;
                 this.Top += e.Y - endPoint.Y;
             }
+        }
+
+        private void RegisterMenuLabelClick(object sender, EventArgs e)
+        {
+            registerUserControl.BringToFront();
+        }
+
+        private void LoginMenuLabelClick(object sender, EventArgs e)
+        {
+            loginUserControl.BringToFront();
         }
     }
 }
